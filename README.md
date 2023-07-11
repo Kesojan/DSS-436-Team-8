@@ -1,7 +1,7 @@
 # ML-Driven House Customization for Maximum Profit Tool
 Decision Support System for MSCI 436 (Team 8)
 
-The main objective of the DSS is for realtors/sellers to analyze buyer's preferences to understand and identify the most attractive house features (ex. upgraded kitchen, garage type, pool area). This model will help them make informed decisions about potential renovations or improvements to increase the chances of attracting interested buyers and generating more offers or achieving a higher selling price
+The main objective of the DSS is for realtors/sellers to analyze buyer's preferences to understand and identify the most attractive house features (ex. upgraded kitchen, garage type, pool area). This model will help them make informed decisions about potential renovations or improvements to increase the chances of attracting interested buyers and generating more offers or achieving a higher selling price.
 
 **Files Description:**
 - MSCI 436 ML Model.ipynb: Colab notebook file containing the data cleaning/analysis and model training 
