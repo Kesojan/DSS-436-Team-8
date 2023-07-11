@@ -7,9 +7,7 @@ Decision Support System for MSCI 436 (Team 8)
 - logs.txt: File contains the log for Streamlit app
 - out.csv: File contains the dataframe to be used for Streamlit
 
-**Code Structure:** 
-
-Code description and order for MSCI 436 ML Model.ipynb.
+**Code Structure and Description:** 
 1. Import packages required to train model
 2. Load required data
 3. Clean data (removing missing data, etc)
