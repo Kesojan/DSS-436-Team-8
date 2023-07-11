@@ -1,5 +1,6 @@
-# DSS-436-Team-8
+# ML-Driven House Customization for Maximum Profit Tool
 Decision Support System for MSCI 436 (Team 8)
+
 
 **Files Description:**
 - MSCI 436 ML Model.ipynb: Colab notebook file containing the data cleaning/analysis and model training 
